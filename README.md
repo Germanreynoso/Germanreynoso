@@ -54,7 +54,7 @@ Mi enfoque principal está en la creación de **backends robustos y escalables**
 ### 📫 ¡Contáctame!  
 Si estás buscando un **Full Stack Developer** con un fuerte enfoque en Backend, **no dudes en contactarme**:  
 
-- **Email:** [germanreynoso94@gmail.com](mailto:germanreynoso94@gmail.com)  
+- **Email:** [gonzareynoso94@gmail.com](mailto:germanreynoso94@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/germanreynoso](#)  
 - **GitHub:** [Germanreynoso](https://github.com/Germanreynoso)  
 
